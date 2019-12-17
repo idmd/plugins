@@ -4,7 +4,7 @@
   "dependencies": {
     "eslint": "^5.13.0",
     "raw-loader": "^0.5.1",
-    "webpack": "^4.29.3",
+    "webpack": "^4.41.3",
     "webpack-cli": "^3.2.3"
   },
   "devDependencies": {

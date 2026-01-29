@@ -2,7 +2,7 @@
   "name": "nginx",
   "version": "0.0.1",
   "dependencies": {
-    "eslint": "^5.13.0",
+    "eslint": "^9.39.2",
     "raw-loader": "^0.5.1",
     "webpack": "^4.29.3",
     "webpack-cli": "^3.2.3"
